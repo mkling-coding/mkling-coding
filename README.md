@@ -10,7 +10,7 @@ I discovered my passion for coding a few years ago, and it didn't take long for 
 * 🖥️  See my portfolio at [https://mkling-coding.github.io/portfolio/](http://mkling-coding.github.io/portfolio/)
 * ✉️  You can contact me at [mkling5577@gmail.com](mailto:mkling5577@gmail.com)
 * 🚀  I'm currently working on [my portfolio](http://mkling-coding.github.io/portfolio/)
-* 🧠  I'm learning Next.js
+* 🧠  I'm learning C# and .Net
 
 ### Skills
 
